@@ -1,0 +1,24 @@
+HC-SR05 sensonrs for distance calculations
+https://www.youtube.com/watch?v=6F1B_N6LuKw
+Since the calsulations of the distance is based on sound and sound varies with temp and humidity
+we will use DHT22 sensors for temp and humidity
+
+
+L298N board for conttolling the DC motors
+https://www.youtube.com/watch?v=dyjo_ggEtVU
+https://dronebotworkshop.com/dc-motors-l298n-h-bridge/
+ Useful notes ans points
+1. PWM pulse width modulation - Pulse of same volt as of motor is sent of different width for controlling the speed of the motor
+2. 
+
+For 4WD obsatacle robot https://www.youtube.com/watch?v=C3GhJmmRY4Y
+
+
+Electricals
+https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/
+https://www.open-electronics.org/the-power-of-arduino-this-unknown/ power supply for the Andruino board...
+
+
+
+
+Power is  Power is related to current (I) and voltage (V) by the equation P = I*V
